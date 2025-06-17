@@ -1,0 +1,3 @@
+- Takes a user-defined number `n` as input.
+- Displays a neatly formatted multiplication table.
+- Outputs up to `n × n` with aligned rows and columns.
